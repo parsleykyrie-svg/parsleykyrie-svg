@@ -8,8 +8,12 @@ I develop marketing workflows with Claude Code agents, reusable commands and sha
 
 | Project | Contents |
 | --- | --- |
-| [5square meter Marketing Agents](https://github.com/parsleykyrie-svg/5square-meter-marketing-operations) | Ten specialist Claude Code agents, ten slash commands, audience and brand context, research guidance and a product-context sync script |
-| [5square meter Product Context](https://github.com/parsleykyrie-svg/5square-meter-property-inventory) | Product and audience context, developer–broker domain notes and the SDLC context-sync script |
+| [5square meter Marketing Agents](https://github.com/parsleykyrie-svg/5square-meter-marketing-operations) | Ten specialist Claude Code agents, ten slash commands, shared context and product-context sync script |
+| [5square meter Product Context](https://github.com/parsleykyrie-svg/5square-meter-property-inventory) | Product and audience context, developer–broker domain notes and SDLC context-sync script |
+| [Learning Platform Delivery Agents](https://github.com/parsleykyrie-svg/learning-platform-delivery-agents) | Four delivery agents, six commands, staged feature tracking and Python verification tools |
+| [Multilingual Editorial Operations](https://github.com/parsleykyrie-svg/multilingual-editorial-operations) | Editorial agents, source-attributed drafts, a concurrency-safe local queue and review-before-export workflow |
+
+The delivery and editorial repositories adapt reusable workflow patterns from my application and content operations work for public portfolio use. Their READMEs describe the implementation, configuration and limits.
 
 ## Areas of work
 
