@@ -1,20 +1,18 @@
 # Vakhtang Ninikashvili
 
-Marketing specialist and AI automation practitioner working on **5square meter**, a B2B real estate project. My background also includes policy research, regional coordination and international relations.
+Marketing specialist and AI automation practitioner working on **5square meter**, a B2B real estate project. My background includes policy research, regional coordination and international relations.
 
-I build context-driven marketing workflows with Claude Code agents and reusable commands, and work with MCP-connected tools for Google Ads and Meta Ads campaign operations.
+I develop marketing workflows with Claude Code agents, reusable commands and shared product context, and use MCP-connected tools for Google Ads and Meta Ads campaign operations.
 
-## Selected real estate demonstrations
+## Projects
 
-| Project | What you can inspect |
+| Project | Contents |
 | --- | --- |
-| [5square meter property inventory](https://github.com/parsleykyrie-svg/5square-meter-property-inventory) | Fictional listings, inventory filters, price comparisons, shortlists and CSV exports |
-| [5square meter marketing operations](https://github.com/parsleykyrie-svg/5square-meter-marketing-operations) | Audience-specific briefs, specialist handoffs, research review gates, UTM parameters and campaign metrics |
-
-These are standalone portfolio demonstrations built with AI-assisted development. Their data is fictional, and each README distinguishes implemented features from separate operational work. They are not the production 5square meter platform.
+| [5square meter Marketing Agents](https://github.com/parsleykyrie-svg/5square-meter-marketing-operations) | Ten specialist Claude Code agents, ten slash commands, audience and brand context, research guidance and a product-context sync script |
+| [5square meter Product Context](https://github.com/parsleykyrie-svg/5square-meter-property-inventory) | Product and audience context, developer–broker domain notes and the SDLC context-sync script |
 
 ## Areas of work
 
-- Marketing workflow design and AI-assisted content operations
+- AI agent workflow design and marketing operations
 - MCP integrations and paid campaign management
 - Research, briefing preparation and stakeholder coordination
